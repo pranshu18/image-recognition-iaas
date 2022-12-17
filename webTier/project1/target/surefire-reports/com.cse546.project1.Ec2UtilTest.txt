@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cse546.project1.Ec2UtilTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.42 s - in com.cse546.project1.Ec2UtilTest

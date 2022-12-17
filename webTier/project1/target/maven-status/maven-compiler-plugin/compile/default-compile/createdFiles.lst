@@ -1,0 +1,4 @@
+com\cse546\project1\WebTierApplication.class
+com\cse546\project1\AppController.class
+com\cse546\project1\Ec2Util.class
+com\cse546\project1\SqsUtil.class
